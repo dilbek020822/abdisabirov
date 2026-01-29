@@ -1,2 +1,3 @@
-a = "huiiii 30 cm aidana"
-print(type(a))
+a = "Hello,"
+b = input()
+print(a+b+"!")
